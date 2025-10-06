@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Clara Souza",
+    "descricao": "Líder da equipe de desenvolvimento em geral, especializada em metodologias ágeis e gestão de riscos.",
+    "funcao": "Gerente de Projetos Sênior",
+    "imagem": "../Imagens/1Ana.jpeg",
+    "setor": "Desenvolvimento"
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Mendes",
+    "descricao": "Responsável pela interface do usuário e experiência (UI/UX) utilizando React e Vue.js.",
+    "funcao": "Desenvolvedor Front-end Pleno",
+    "imagem": "../Imagens/2Bruno.jpeg"
+
+  },
+  {
+    "id": 3,
+    "nome": "Carla Ribeiro",
+    "descricao": "Cria e gerencia campanhas de SEO, PPC e conteúdo para aumentar a visibilidade de marcas.",
+    "funcao": "Especialista em Marketing Digital",
+    "imagem": "../Imagens/3Carla.jpeg"
+
+  },
+  {
+    "id": 4,
+    "nome": "Daniel Oliveira",
+    "descricao": "Ponto focal para resolução de problemas de hardware e software internos.",
+    "funcao": "Analista de Suporte Técnico",
+    "imagem": "../Imagens/4Daniel.jpeg"
+
+  },
+  {
+    "id": 5,
+    "nome": "Elena Ferreira",
+    "descricao": "Auxilia no controle financeiro, processamento de faturas e preparação de relatórios fiscais.",
+    "funcao": "Contadora Júnior",
+    "imagem": "../Imagens/5Elena.jpeg"
+
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Rocha",
+    "descricao": "Define a estrutura técnica e as melhores práticas para sistemas de grande escala.",
+    "funcao": "Arquiteto de Software",
+    "imagem": "../Imagens/6Felipe.jpeg"
+
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Lima",
+    "descricao": "Cria materiais visuais como logotipos, apresentações e gráficos.",
+    "funcao": "Designer Gráfico",
+    "imagem": "../Imagens/7Gabriela.jpeg"
+
+  },
+  {
+    "id": 8,
+    "nome": "Hugo Costa",
+    "descricao": "Responsável pela coleta, processamento e análise de grandes volumes.",
+    "funcao": "Engenheiro de Dados",
+    "imagem": "../Imagens/8Hugo.jpeg"
+
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Santos",
+    "descricao": "Gerencia o recrutamento e desenvolvimento profissional.",
+    "funcao": "Recursos Humanos (RH)",
+    "imagem": "../Imagens/9Isabela.jpeg"
+
+  },
+  {
+    "id": 10,
+    "nome": "João Victor Almeida",
+    "descricao": "Focado na lógica de servidor, APIs e bancos de dados.",
+    "funcao": "Desenvolvedor Back-end Sênior",
+    "imagem": "../Imagens/10Joao.jpeg"
+
+  },
+  {
+    "id": 11,
+    "nome": "Laura Pereira",
+    "descricao": "Organiza a agenda, documentos e o fluxo de trabalho do escritório.",
+    "funcao": "Assistente Administrativa",
+    "imagem": "../Imagens/11Laura.jpeg"
+
+  },
+  {
+    "id": 12,
+    "nome": "Marcelo Gomes",
+    "descricao": "Implementa e monitora medidas para proteger os sistemas e dados contra ameaças cibernéticas/internewt.",
+    "funcao": "Técnico de Segurança da Informação",
+    "imagem": "../Imagens/12Marcelo.jpeg"
+
+  },
+  {
+    "id": 13,
+    "nome": "Natália Alves",
+    "descricao": "Prospecta novos clientes, mantém o relacionamento e negocia contratos.",
+    "funcao": "Analista de Vendas",
+    "imagem": "../Imagens/13Natalia.jpeg"
+
+  },
+  {
+    "id": 14,
+    "nome": "Otávio Barbosa",
+    "descricao": "Desenvolve e ministra programas de capacitação para a equipe.",
+    "funcao": "Coordenador de Treinamento",
+    "imagem": "../Imagens/14Otavio.jpeg"
+
+  },
+  {
+    "id": 15,
+    "nome": "Patrícia Neves",
+    "descricao": "Realiza análises quantitativas para embasar decisões estratégicas da empresa.",
+    "funcao": "Estatística Aplicada",
+    "imagem": "../Imagens/15Patricia.jpeg"
+
+  }
+]
